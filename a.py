@@ -1,3 +1,2 @@
-s = '123'
-for c in s[::-1]:
-    print(c)
+print('w' > '0')
+print('w' < '9')
