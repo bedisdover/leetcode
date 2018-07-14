@@ -1,2 +1,1 @@
-print('w' > '0')
-print('w' < '9')
+print(input('123123'))
