@@ -1,3 +1,2 @@
-a = ['I', 'V', 'X', 'L', 'C', 'D', 'M']
-a.reverse()
-print(1 % 1000)
+a = [1, 2, 3, 4]
+print(sum(a[0:3]))
